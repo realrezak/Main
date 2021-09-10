@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M. Reza Keshavarz
-- 👀 I’m interested in Artificial intelligence, Machine learning, Deep learning and it's related fields.
+- 👀 I’m interested in Artificial intelligence, Machine learning, Deep learning and its related fields.
 - 🌱 I’m currently learning TensorFlow, PyTorch
 - 📫 How to reach me [Email]
 
